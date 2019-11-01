@@ -8,7 +8,7 @@
 Summary:	An SDK for building applications to work with OpenStack
 Name:		python-openstacksdk
 Version:	0.9.17
-Release:	3
+Release:	4
 License:	Apache
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/o/openstacksdk/openstacksdk-%{version}.tar.gz
