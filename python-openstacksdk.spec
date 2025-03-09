@@ -152,7 +152,7 @@ Dokumentacja API modułu Pythona openstacksdk.
 
 %prep
 %setup -q -n openstacksdk-%{version}
-%patch0 -p1
+%patch -P 0 -p1
 
 %build
 %if %{with python2}
