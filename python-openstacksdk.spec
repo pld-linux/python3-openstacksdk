@@ -10,7 +10,7 @@ Summary(pl.UTF-8):	SDK do budowania aplikacji działających z OpenStack
 Name:		python-openstacksdk
 # keep 0.39.x here for python2 support
 Version:	0.39.0
-Release:	1
+Release:	2
 License:	Apache v2.0
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/o/openstacksdk/openstacksdk-%{version}.tar.gz
